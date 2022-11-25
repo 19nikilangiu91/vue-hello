@@ -11,7 +11,7 @@ const { createApp } = Vue
         title: "Hello to Everyone!",
         myClass: "red",
         myImage: "media", 
-        myMedia: "https://unsplash.it/600/300?image=171"
+        myMedia: "https://unsplash.it/600/300?image=171",
       }
     }
   }).mount("#myApp")
